@@ -70,7 +70,9 @@ int main(){
 
 
     }
+    
     printf("%d\n", similarity);
+
 
     fclose(inputfile);
     return 0;
